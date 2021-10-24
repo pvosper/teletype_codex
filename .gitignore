@@ -1,0 +1,6 @@
+# BBEdit project files
+*.bbprojectd
+
+# Other people's work
+samples/
+
